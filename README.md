@@ -9,4 +9,4 @@ run Subscriber
 `go run sub/main.go`
 
 run Publisher
-`go run sub/main.go`
+`go run pub/main.go`
